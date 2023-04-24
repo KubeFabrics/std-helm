@@ -1,0 +1,6 @@
+apiVersion: v2
+name: helm-library
+description: A Helm library chart
+type: library
+version: 2.8.4
+
